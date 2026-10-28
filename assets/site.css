@@ -113,3 +113,5 @@ html:not(.has-js){scroll-padding-top:20px}html:not(.has-js) header{position:stat
 html[lang="es"] h1{font-size:clamp(43px,5.5vw,68px)}
 @media(max-width:1100px){.nav-actions{order:2}.nav-actions .menu{display:none}.has-js .nav-actions .menu{display:block}}
 @media(max-width:480px){.nav{gap:8px}.brand img.brand-logo{width:100px}.nav-actions{gap:8px}.language-switch a{font-size:12px;padding:8px 7px}.nav-actions .menu{min-width:44px;width:44px;min-height:44px}}
+
+.pill .pill-channel{font-size:11px;font-weight:700;letter-spacing:.02em}
