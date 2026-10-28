@@ -70,8 +70,8 @@ h1 em{color:var(--coral-text);font-style:normal}
 .pill b,.pill span{flex-shrink:0;color:#ffbf9d}
 .pill .pill-label{color:inherit;flex-shrink:1;overflow-wrap:anywhere}
 .roberto{padding:72px 0 0;background:var(--cream)}
-.roberto-grid{display:grid;grid-template-columns:1fr 1fr;gap:54px;align-items:center;padding-bottom:48px}
-.roberto-photo{height:510px;max-width:500px;align-self:center;overflow:hidden;border-radius:var(--round)}
+.roberto-grid{display:grid;grid-template-columns:1fr 1fr;gap:54px;align-items:start;padding-bottom:48px}
+.roberto-photo{height:510px;max-width:500px;align-self:start;overflow:hidden;border-radius:var(--round)}
 .roberto-photo img{width:100%;height:100%;display:block;object-fit:cover;object-position:center top}
 .roberto-copy{padding:0}
 .roberto-copy h2{margin:12px 0 15px;color:var(--deep);font-size:clamp(38px,4.5vw,55px);line-height:1;letter-spacing:-.06em}
